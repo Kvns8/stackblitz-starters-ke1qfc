@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-starter",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "next": "^13.4.0",
+    "next-auth": "^4.23.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.156.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.2",
+    "@types/react": "18.2.24",
+    "typescript": "5.2.2"
+  }
+}
